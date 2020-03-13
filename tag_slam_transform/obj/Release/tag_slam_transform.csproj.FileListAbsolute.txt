@@ -1,0 +1,9 @@
+G:\visp_workspace\tag_slam_transform\tag_slam_transform\bin\Release\tag_slam_transform.dll
+G:\visp_workspace\tag_slam_transform\tag_slam_transform\bin\Release\tag_slam_transform.pdb
+G:\visp_workspace\tag_slam_transform\tag_slam_transform\bin\Release\UnityEngine.dll
+G:\visp_workspace\tag_slam_transform\tag_slam_transform\bin\Release\UnityEngine.xml
+G:\visp_workspace\tag_slam_transform\tag_slam_transform\obj\Release\tag_slam_transform.csproj.CoreCompileInputs.cache
+G:\visp_workspace\tag_slam_transform\tag_slam_transform\obj\Release\tag_slam_transform.csproj.CopyComplete
+G:\visp_workspace\tag_slam_transform\tag_slam_transform\obj\Release\tag_slam_transform.dll
+G:\visp_workspace\tag_slam_transform\tag_slam_transform\obj\Release\tag_slam_transform.pdb
+G:\visp_workspace\tag_slam_transform\tag_slam_transform\obj\Release\tag_slam_transform.csprojAssemblyReference.cache
